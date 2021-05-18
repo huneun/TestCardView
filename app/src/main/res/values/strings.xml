@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestCardView</string>
+    <bool name="large_layout">true</bool>
+</resources>
